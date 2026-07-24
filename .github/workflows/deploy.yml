@@ -23,6 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           gem install bundler -v 2.4.22
+          rm -f Gemfile.lock
           bundle config set --local path vendor/bundle
           bundle install --jobs 4 --retry 3
       - name: Setup Pages
