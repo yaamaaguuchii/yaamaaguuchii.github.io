@@ -42,9 +42,9 @@ content:
       - layout: top-right
         title: 深圳大学
         sub_title: 金融科技 · 本科
-        caption: 2020 - 2024
+        caption: 2024 - 2028
         description: |
-          主修金融科技专业，系统学习概率论、计量经济学、管理信息系统等课程。
+          主修金融科技区块链专业，系统学习概率论、计量经济学、信息系统战略分析等课程。
 
   - title: A Little More About Me
     layout: text
@@ -52,7 +52,7 @@ content:
       技能方面：
       - 概率论与数理统计
       - 计量经济学
-      - 管理信息系统
+      - 信息系统战略规划
       - Python / JavaScript
       - GitHub / Codex AI 开发工具
 
