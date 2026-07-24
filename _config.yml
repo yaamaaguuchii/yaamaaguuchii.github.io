@@ -6,7 +6,7 @@ version: 2
 
 # Personal info
 name: 刘一诺
-title: 金融科技 · 大三
+title: 金融科技 · 本科
 email: 2201665460@qq.com
 phone:
 website:
@@ -20,9 +20,9 @@ github_username: yaamaaguuchii
 # About Section
 about_profile_image: images/profile.jpg
 about_content: |
-  我是刘一诺，金融科技专业大三学生。
-  对产品设计、前端开发和人工智能在金融领域的应用感兴趣。
-  正在探索如何用技术解决实际问题。
+  我是刘一诺，深圳大学金融科技专业本科毕业生。
+  系统学习概率论、计量经济学、管理信息系统等课程。
+  对数据分析、产品设计和人工智能在金融领域的应用感兴趣。
 
 content:
   - title: Projects
@@ -40,20 +40,21 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: 南京大学
+        title: 深圳大学
         sub_title: 金融科技 · 本科
-        caption: 2023 - 2026
+        caption: 2020 - 2024
         description: |
-          主修金融科技相关课程，关注数字金融、金融科技创新等方向。
+          主修金融科技专业，系统学习概率论、计量经济学、管理信息系统等课程。
 
   - title: A Little More About Me
     layout: text
     content: |
       技能方面：
-      - Python / JavaScript / HTML+CSS
-      - GitHub / Git / VS Code
-      - Codex AI 开发工具
-      - 产品设计与文档编写
+      - 概率论与数理统计
+      - 计量经济学
+      - 管理信息系统
+      - Python / JavaScript
+      - GitHub / Codex AI 开发工具
 
 # Footer
 footer_show_references: false
