@@ -20,4 +20,4 @@
 [x] docs/ 目录包含 PRD、Design、Checklist
 [x] screenshots/ 包含截图
 [x] GitHub Pages 已部署并可访问
-[ ] TA-Claw 提交成功
+[x] TA-Claw 提交成功
