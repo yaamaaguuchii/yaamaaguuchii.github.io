@@ -6,7 +6,7 @@
 3. About：个人简介，含头像
 4. Skills：技术栈列表
 5. Projects：项目展示
-6. Education：教育经历（南京大学 金融科技）
+6. Education：教育经历（深圳大学 金融科技）
 7. Contact（Footer）：邮箱 2201665460@qq.com
 
 ## 配色方案
