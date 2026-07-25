@@ -18,7 +18,7 @@ darkmode: false
 github_username: yaamaaguuchii
 
 # About Section
-about_profile_image: images/profile.jpg
+about_profile_image: /profile.jpg
 about_content: |
   我是刘一诺，深圳大学金融科技专业本科毕业生。
   系统学习概率论、计量经济学、管理信息系统等课程。
